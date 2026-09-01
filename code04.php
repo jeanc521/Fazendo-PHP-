@@ -17,5 +17,5 @@
     echo "<p>Ativo: " . ($isAtivo ? "Sim" : "Não") . " (Tipo: " . gettype($isAtivo) . ")</p>";
     echo "<p>Nulo: " . var_export($nulo, true) . " (Tipo: " . gettype($nulo) . ")</p>";
     ?>
-</body>
+  </body>
 </html>

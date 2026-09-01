@@ -12,14 +12,8 @@
             echo "Olá, Mundo!"; // Isso é um comentário de linha única
         ?>
     </h1>
-
     <?php
-    /*
-         * Isso é um comentário
-         * de múltiplas linhas
-         */
     echo "<p>Bem-vindo ao PHP!</p>";
     ?>
-
 </body>
 </html> 
